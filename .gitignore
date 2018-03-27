@@ -1,0 +1,7 @@
+.DS_Store
+*.pyc
+*.egg-info
+build
+setup.py
+project.egg-info
+req12.txt

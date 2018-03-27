@@ -1,0 +1,51 @@
+# FIZ Scrapy
+
+## Setup the Environment(locally)
+1. Check out the source from the github repo
+
+   ```sh
+   cd fiz_scrapy
+   ```
+
+## Usage
+### Running on local
+#### Command line specification
+We apply built-in command `scrapy` to run spiders locally. Each command below should be executed under `/your/path/to/fiz_scrapy`.
+
+```sh
+Usage: scrapy crawl [SPIDER NAME]
+
+```
+
+#### Command line examples
+* Crawl Place spider
+  ```
+  scrapy crawl place
+  ```
+
+### Run a spider on servers
+The same method as we run the spider on local if you ssh to the server.
+Also there's a way to trigger a spider from local because we deployed spiders via [shub](http://shub.readthedocs.io/en/stable/deploying.html). So we only need to send a scrapinghub API request like following
+
+```
+curl -u APIKEY: https://app.scrapinghub.com/api/run.json -d project=PROJECT -d spider=SPIDER
+
+```
+Where `APIKEY` is your API key, `PROJECT` is the spider’s project ID, and `SPIDER` is the name of the spider you want to run.
+
+All options are the same as #command-line-specification with some noted points
+
+
+### Run Spider After Updating Code
+If we made the changes in spider codes, we have to deploy code to scrapinghub by the following methods.
+
+```sh
+shub deploy [PROJECT ID]
+```
+
+Another way of doing it is, by adding the Project id in the scrapinghub.yml file which is present in the project root directory.
+
+```sh
+shub deploy
+```
+

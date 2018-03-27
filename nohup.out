@@ -1,0 +1,158 @@
+Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=350m; support was removed in 8.0
+INFO com.vladsch.idea.multimarkdown  - JavaFX library jfxrt.jar found in /usr/lib/jvm/java-8-oracle/jre/lib the current jre: /usr/lib/jvm/java-8-oracle/jre, version 1.8.0_131
+INFO com.vladsch.idea.multimarkdown  - creating temp font file: /home/sayone/.PyCharm30/system/tmp/multimarkdown_taskitems.ttf
+[ 285464]   WARN - api.vfs.impl.local.FileWatcher - The current <b>inotify</b>(7) watch limit is too low. <a href="http://confluence.jetbrains.net/display/IDEADEV/Inotify+Watches+Limit">More details.</a> 
+[ 287331]   WARN - api.vfs.impl.local.FileWatcher - Watcher terminated with exit code 3 
+[ 287440]   WARN - api.vfs.impl.local.FileWatcher - The current <b>inotify</b>(7) watch limit is too low. <a href="http://confluence.jetbrains.net/display/IDEADEV/Inotify+Watches+Limit">More details.</a> 
+[ 287446]   WARN - api.vfs.impl.local.FileWatcher - Watcher terminated with exit code 3 
+[ 287554]   WARN - api.vfs.impl.local.FileWatcher - The current <b>inotify</b>(7) watch limit is too low. <a href="http://confluence.jetbrains.net/display/IDEADEV/Inotify+Watches+Limit">More details.</a> 
+[ 287565]   WARN - api.vfs.impl.local.FileWatcher - Watcher terminated with exit code 3 
+[ 287672]   WARN - api.vfs.impl.local.FileWatcher - The current <b>inotify</b>(7) watch limit is too low. <a href="http://confluence.jetbrains.net/display/IDEADEV/Inotify+Watches+Limit">More details.</a> 
+[ 287683]   WARN - api.vfs.impl.local.FileWatcher - Watcher terminated with exit code 3 
+[ 287791]   WARN - api.vfs.impl.local.FileWatcher - The current <b>inotify</b>(7) watch limit is too low. <a href="http://confluence.jetbrains.net/display/IDEADEV/Inotify+Watches+Limit">More details.</a> 
+[ 287801]   WARN - api.vfs.impl.local.FileWatcher - Watcher terminated with exit code 3 
+[ 287914]   WARN - api.vfs.impl.local.FileWatcher - The current <b>inotify</b>(7) watch limit is too low. <a href="http://confluence.jetbrains.net/display/IDEADEV/Inotify+Watches+Limit">More details.</a> 
+[ 287920]   WARN - api.vfs.impl.local.FileWatcher - Watcher terminated with exit code 3 
+[ 288028]   WARN - api.vfs.impl.local.FileWatcher - The current <b>inotify</b>(7) watch limit is too low. <a href="http://confluence.jetbrains.net/display/IDEADEV/Inotify+Watches+Limit">More details.</a> 
+[ 288038]   WARN - api.vfs.impl.local.FileWatcher - Watcher terminated with exit code 3 
+[ 288145]   WARN - api.vfs.impl.local.FileWatcher - The current <b>inotify</b>(7) watch limit is too low. <a href="http://confluence.jetbrains.net/display/IDEADEV/Inotify+Watches+Limit">More details.</a> 
+[ 288155]   WARN - api.vfs.impl.local.FileWatcher - Watcher terminated with exit code 3 
+[ 288263]   WARN - api.vfs.impl.local.FileWatcher - The current <b>inotify</b>(7) watch limit is too low. <a href="http://confluence.jetbrains.net/display/IDEADEV/Inotify+Watches+Limit">More details.</a> 
+[ 288274]   WARN - api.vfs.impl.local.FileWatcher - Watcher terminated with exit code 3 
+[ 288382]   WARN - api.vfs.impl.local.FileWatcher - The current <b>inotify</b>(7) watch limit is too low. <a href="http://confluence.jetbrains.net/display/IDEADEV/Inotify+Watches+Limit">More details.</a> 
+[ 288393]   WARN - api.vfs.impl.local.FileWatcher - Watcher terminated with exit code 3 
+[ 288501]   WARN - api.vfs.impl.local.FileWatcher - The current <b>inotify</b>(7) watch limit is too low. <a href="http://confluence.jetbrains.net/display/IDEADEV/Inotify+Watches+Limit">More details.</a> 
+[ 288512]   WARN - api.vfs.impl.local.FileWatcher - Watcher terminated with exit code 3 
+[ 288512]   WARN - api.vfs.impl.local.FileWatcher - File watcher failed to start 
+[ 377572]   WARN - on.sdk.flavors.PythonSdkFlavor - Couldn't get interpreter version: process exited with code 1
+Usage: /usr/bin/python2-config --prefix|--exec-prefix|--includes|--libs|--cflags|--ldflags|--extension-suffix|--help|--configdir
+ 
+Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=350m; support was removed in 8.0
+INFO com.vladsch.idea.multimarkdown  - JavaFX library jfxrt.jar found in /usr/lib/jvm/java-8-oracle/jre/lib the current jre: /usr/lib/jvm/java-8-oracle/jre, version 1.8.0_131
+INFO com.vladsch.idea.multimarkdown  - creating temp font file: /home/sayone/.PyCharm30/system/tmp/multimarkdown_taskitems.ttf
+[  52947]   WARN - api.vfs.impl.local.FileWatcher - The current <b>inotify</b>(7) watch limit is too low. <a href="http://confluence.jetbrains.net/display/IDEADEV/Inotify+Watches+Limit">More details.</a> 
+[  53061]   WARN - api.vfs.impl.local.FileWatcher - Watcher terminated with exit code 3 
+[  53169]   WARN - api.vfs.impl.local.FileWatcher - The current <b>inotify</b>(7) watch limit is too low. <a href="http://confluence.jetbrains.net/display/IDEADEV/Inotify+Watches+Limit">More details.</a> 
+[  53180]   WARN - api.vfs.impl.local.FileWatcher - Watcher terminated with exit code 3 
+[  53288]   WARN - api.vfs.impl.local.FileWatcher - The current <b>inotify</b>(7) watch limit is too low. <a href="http://confluence.jetbrains.net/display/IDEADEV/Inotify+Watches+Limit">More details.</a> 
+[  53299]   WARN - api.vfs.impl.local.FileWatcher - Watcher terminated with exit code 3 
+[  53407]   WARN - api.vfs.impl.local.FileWatcher - The current <b>inotify</b>(7) watch limit is too low. <a href="http://confluence.jetbrains.net/display/IDEADEV/Inotify+Watches+Limit">More details.</a> 
+[  53417]   WARN - api.vfs.impl.local.FileWatcher - Watcher terminated with exit code 3 
+[  53530]   WARN - api.vfs.impl.local.FileWatcher - The current <b>inotify</b>(7) watch limit is too low. <a href="http://confluence.jetbrains.net/display/IDEADEV/Inotify+Watches+Limit">More details.</a> 
+[  53541]   WARN - api.vfs.impl.local.FileWatcher - Watcher terminated with exit code 3 
+[  53649]   WARN - api.vfs.impl.local.FileWatcher - The current <b>inotify</b>(7) watch limit is too low. <a href="http://confluence.jetbrains.net/display/IDEADEV/Inotify+Watches+Limit">More details.</a> 
+[  53660]   WARN - api.vfs.impl.local.FileWatcher - Watcher terminated with exit code 3 
+[  53767]   WARN - api.vfs.impl.local.FileWatcher - The current <b>inotify</b>(7) watch limit is too low. <a href="http://confluence.jetbrains.net/display/IDEADEV/Inotify+Watches+Limit">More details.</a> 
+[  53778]   WARN - api.vfs.impl.local.FileWatcher - Watcher terminated with exit code 3 
+[  53920]   WARN - api.vfs.impl.local.FileWatcher - The current <b>inotify</b>(7) watch limit is too low. <a href="http://confluence.jetbrains.net/display/IDEADEV/Inotify+Watches+Limit">More details.</a> 
+[  53930]   WARN - api.vfs.impl.local.FileWatcher - Watcher terminated with exit code 3 
+[  54077]   WARN - api.vfs.impl.local.FileWatcher - The current <b>inotify</b>(7) watch limit is too low. <a href="http://confluence.jetbrains.net/display/IDEADEV/Inotify+Watches+Limit">More details.</a> 
+[  54103]   WARN - api.vfs.impl.local.FileWatcher - Watcher terminated with exit code 3 
+[  54282]   WARN - api.vfs.impl.local.FileWatcher - The current <b>inotify</b>(7) watch limit is too low. <a href="http://confluence.jetbrains.net/display/IDEADEV/Inotify+Watches+Limit">More details.</a> 
+[  54308]   WARN - api.vfs.impl.local.FileWatcher - Watcher terminated with exit code 3 
+[  54438]   WARN - api.vfs.impl.local.FileWatcher - The current <b>inotify</b>(7) watch limit is too low. <a href="http://confluence.jetbrains.net/display/IDEADEV/Inotify+Watches+Limit">More details.</a> 
+[  54455]   WARN - api.vfs.impl.local.FileWatcher - Watcher terminated with exit code 3 
+[  54455]   WARN - api.vfs.impl.local.FileWatcher - File watcher failed to start 
+[2364770]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[2365733]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[2366932]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[2884877]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[2967329]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[3035414]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[3038945]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[3157011]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[3157742]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[3187663]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[4335738]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[4351284]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[4505152]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[4546399]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[4565399]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[4567897]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[4642376]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[5006350]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[5137670]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[5145247]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[5207845]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[5232067]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[5237024]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[5241742]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[5300755]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[5320499]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[5360527]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[5361584]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[5372146]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[5386443]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[5415276]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[5423353]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[5430492]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[5544737]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[5551688]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[5563032]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[5584902]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[5594205]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[5658350]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[5713865]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[5788887]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[5796460]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[5845478]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[5851768]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[5867453]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[5896604]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[5903972]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[5937378]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[5968236]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[5975802]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[6138185]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[6160594]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[6191161]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[6200540]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[6201474]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[6207545]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[6226523]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[6243031]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[6268744]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[6350727]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[6360488]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[6408946]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[6531022]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[6726854]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[6789167]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[7131853]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[7134824]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[7151872]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[7288389]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[7298253]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[7309412]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[7310453]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[7319056]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[7361760]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[7368179]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[7369846]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[7405991]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[7429090]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[7436610]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[7439100]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[7452252]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[7530770]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[7609694]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[8722130]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[8776025]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[8824636]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[8834192]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[8934732]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[8947547]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[9050384]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[9054280]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[9068433]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[9184255]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[9188575]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[9558370]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[9577106]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[9578076]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[9593058]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[9593761]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[9696335]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[9817187]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[9853703]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
+[11501414]   WARN - ewvfs.persistent.RefreshWorker - [+] fs=LocalFileSystem dir=file:///home/sayone/fiz-etl/demo name=util\.py 
