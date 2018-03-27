@@ -5,3 +5,4 @@ build
 setup.py
 project.egg-info
 req12.txt
+.idea
