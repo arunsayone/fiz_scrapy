@@ -46,7 +46,7 @@ python-dateutil==2.6.1
 python-google-places==1.0.0
 python-yelp-v2==0.5.7
 pytz==2018.3
-PyYAML==3.12
+PyYAML==5.4
 queuelib==1.5.0
 requests==2.18.4
 requests-oauthlib==0.8.0
