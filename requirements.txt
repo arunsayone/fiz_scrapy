@@ -61,7 +61,7 @@ six==1.11.0
 tqdm==4.19.8
 Twisted==17.9.0
 Unidecode==0.04.16
-urllib3==1.22
+urllib3==1.26.5
 w3lib==1.19.0
 websocket-client==0.47.0
 wikipedia==1.4.0
